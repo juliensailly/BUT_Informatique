@@ -25,10 +25,10 @@ Ce projet inclut un classement entre les différents joueur, une option de sauve
   10) C'est un jeu en tour par tour, il sera donc au second joueur de jouer.
 ![Gif de la victoires](img/WIN.gif)
   11) Si vous quittez la partie lorsqu'elle est en cours, et si vous relancez le programme vous pourrez au choix : recommencer une partie ou continuer celle non terminée.
-  ![Gif de la sauvegarde](img/save.gif)
+![Gif de la sauvegarde](img/save.gif)
     
   12) Une fois la partie terminée, vous pouvez accéder au classement avec des points selon les victoires et les défaites. (+10/-8).
-  ![Gif du classement](img/RANK.gif)
+![Gif du classement](img/RANK.gif)
 
 ## Système de stockage des données du leaderboard
 
