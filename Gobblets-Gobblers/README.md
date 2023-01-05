@@ -1,5 +1,5 @@
 # Gobblets-Gobblers
-Ce projet _Gobblets-Gobblers_ a été réalisé par Alenso Lopes et Julien Sailly dans le cadre d'étude en BUT Informatique.
+Ce projet _Gobblets-Gobblers_ a été réalisé par [Alenso Lopes](https://github.com/AlensoLopes) et Julien Sailly dans le cadre d'étude en BUT Informatique.
 
 Codé grâce au language de programmation C, il permet de jouer à ce jeu de société dans le terminal linux.
 
