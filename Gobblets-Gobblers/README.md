@@ -18,16 +18,24 @@ Ce projet inclut un classement entre les différents joueur, une option de sauve
   5) Une fois dans le jeu, chaque joueur doit choisir un pseudonyme.
   6) Ensuite, les étapes de lancement sont prêtes. Il vous est donc possible de jouer.
   7) Pour jouer, vous devez déterminer si vous voulez placer une pièce ou en déplacer une.
+
 ![Gif du placement des pièces](img/PLACE.gif) 
+
   8) En cas de déplacement, si vous n'avez pas de pièce il ne sera pas possible d'en déplacer une.
+
 ![Gif du déplacement des pièces](img/MOVE.gif)
+
   9) En cas de placement d'une pièce, vous devez sélectionner la pièce à placer ainsi que saisir ses coordonnées (0,2).
   10) C'est un jeu en tour par tour, il sera donc au second joueur de jouer.
+
 ![Gif de la victoires](img/WIN.gif)
+
   11) Si vous quittez la partie lorsqu'elle est en cours, et si vous relancez le programme vous pourrez au choix : recommencer une partie ou continuer celle non terminée.
+
 ![Gif de la sauvegarde](img/save.gif)
     
   12) Une fois la partie terminée, vous pouvez accéder au classement avec des points selon les victoires et les défaites. (+10/-8).
+
 ![Gif du classement](img/RANK.gif)
 
 ## Système de stockage des données du leaderboard
